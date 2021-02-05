@@ -1,0 +1,6 @@
+CONFIG={
+   "CONSUMER_KEY":"KEYを入力",
+   "CONSUMER_SECRET":"KEYを入力,
+   "ACCESS_TOKEN":"KEYを入力",
+   "ACCESS_SECRET":"KEYを入力",
+}
